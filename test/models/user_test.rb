@@ -1,4 +1,4 @@
-require 'test_helper123'
+require 'test_helper'
 
 class UserTest < ActiveSupport::TestCase
 
